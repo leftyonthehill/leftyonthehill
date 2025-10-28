@@ -1,8 +1,9 @@
 ## Hi there 👋
+🔭 I’m currently working on a project to simulate a satellite state machine that controls the maneuvers so maintain its position within an operations volume and or its constellation plane/shell
 
 <!--
 **leftyonthehill/leftyonthehill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+@leftyon
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
