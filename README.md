@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on a satellite state machine project that controls a satellite's maneuvers in order to maintain its position within an operations volume and or its constellation plane/shell using the NASA GMAT Python API to model the orbital dynamics.
+🔭 I’m currently working on a closed-loop satellite state machine project that controls a satellite's maneuvers in order to maintain its position within an operations volume and or its constellation plane/shell using the NASA GMAT Python API to model the orbital dynamics.
 
 <!--
 **leftyonthehill/leftyonthehill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
